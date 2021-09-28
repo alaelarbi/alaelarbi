@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alaelarbi
+- 👀 I’m interested in Embedded systems & IOT
+- 🌱 I’m currently learning Artificial intelligence
+- 💞️ I’m looking to collaborate on Data Science Projects
+- 📫 How to reach me throught my E-mail : ala.elarbi@stud.enis.tn
